@@ -6,5 +6,5 @@ $ sudo apt-get install texfull
 
 #### CV.pdf uretmek
 
-$ pdflatex <sablonadi>.tex
+$ pdflatex sablonadi.tex
 
